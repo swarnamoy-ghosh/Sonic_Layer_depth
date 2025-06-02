@@ -19,7 +19,7 @@ This project explores a **machine learning-based framework** for predicting **So
 
 ## 🧠 Key Highlights
 
-- ✅ Developed & evaluated **13 ML models** (Linear, Tree-based, Ensemble, ANN)
+- ✅ Developed & evaluated **10 ML models** (Linear, Tree-based, Ensemble, ANN)
 - 🔍 Feature reduction via **Principal Component Analysis (PCA)**
 - 🌐 Data from **GLORYS12V1** & **ERA5** (1993–2020)
 - 🧭 Analysis over **4 locations** in the Bay of Bengal
