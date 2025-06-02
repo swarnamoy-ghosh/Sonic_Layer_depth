@@ -1,7 +1,7 @@
 # 🌊 Prediction of Sonic Layer Depth in the Bay of Bengal using Machine Learning
 
 <p align="center">
-  <img src="" alt="Sonic Layer Depth" width="500"/>
+  <img src="Assets/sonic.gif" alt="Sonic Layer Depth" width="500"/>
 </p>
 
 ---
